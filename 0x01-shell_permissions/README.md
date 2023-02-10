@@ -43,4 +43,6 @@ Tasks
 
 11. Directories
     Create a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
-   
+
+12. More directories
+    Create a script that creates a directory call my_dir with permission 7    51 in the working directory.    
