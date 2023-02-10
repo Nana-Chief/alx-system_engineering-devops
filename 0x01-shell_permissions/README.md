@@ -49,4 +49,7 @@ Tasks
 
 13. Change group
     Write a script that changes the group owner to school for the file 
-    hello.    
+    hello.
+
+14. Owner and group
+    Write a script that changes the owner to vincent and the group owner t    o staff for all the files and directories in the working directory.    
