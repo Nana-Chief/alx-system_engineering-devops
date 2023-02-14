@@ -77,3 +77,7 @@ Tasks.
 
 21. esreveR
     Write a script that reverse it input.
+
+22. Write a script that displays all users and their home directories,
+    sorted by users.
+
