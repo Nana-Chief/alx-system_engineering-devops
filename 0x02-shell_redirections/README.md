@@ -55,3 +55,7 @@ Tasks.
 
 15. Count the word
     Display the number of lines that contain the patter "bin" in the file     /etc/passwd
+
+16. What's next?
+    Display line containing the patter "root" and 3 lines after them in
+    the file /etc/passwd.
