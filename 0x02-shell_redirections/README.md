@@ -16,4 +16,5 @@ Tasks.
 4. Last lines of a file
    Display the last 10 lines of /etc/passwd
 
-
+5. I'd preger the first ones actually
+   Display the first 10 line of /etc/passwd
