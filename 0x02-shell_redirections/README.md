@@ -35,3 +35,8 @@ Tasks.
 10. No more javascript
    Write a script that deletes all the regular files (not the directories)   with a .js extention that are present in the current directory and all
    all its subfolders.
+
+11. Dont' just count your directories, make your directories count.
+    Write a script that counts the number of directories and                  sub-directories in the current directory.
+    * The current and parent directories should not be taken into account
+    * Hidden directories should be counted
