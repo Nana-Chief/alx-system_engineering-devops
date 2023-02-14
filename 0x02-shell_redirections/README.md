@@ -50,4 +50,5 @@ Tasks.
     * Output format: One line, one word
     * Words should be sorted
 
-
+14. It must be in that file.
+    Display line containing the patter "root" from the file /etc/passwd
