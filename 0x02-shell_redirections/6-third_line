@@ -1,2 +1,2 @@
-#!/bin/bsah
+#!/bin/bash
 cat ./iacta | tail --lines=+3 | head -1
