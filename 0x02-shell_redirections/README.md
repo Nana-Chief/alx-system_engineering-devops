@@ -59,3 +59,7 @@ Tasks.
 16. What's next?
     Display line containing the patter "root" and 3 lines after them in
     the file /etc/passwd.
+
+17. I hate bins
+    Display all the line in the file /etc/passwd that do not contain the 
+    pattern "bin"
