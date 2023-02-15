@@ -18,3 +18,6 @@ TASKS
 
 4. Global variables
    Create a script that list environment variables
+
+5. Local variables
+   Create a script that lists all local variables and environment variable   s, and functions.
