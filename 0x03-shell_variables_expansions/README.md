@@ -21,3 +21,8 @@ TASKS
 
 5. Local variables
    Create a script that lists all local variables and environment variable   s, and functions.
+
+6. Local variable
+   Create a script that creates a new local variable.
+   Name: BEST
+   Value : School
