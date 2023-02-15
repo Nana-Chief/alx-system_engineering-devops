@@ -55,3 +55,4 @@ TASKS
     * The number is base 2 is stored in the environment vairable BINARY
     * The script should display the number in base 10, followed by a new
      line.
+
