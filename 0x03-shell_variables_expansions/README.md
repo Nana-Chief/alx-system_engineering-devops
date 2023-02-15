@@ -80,4 +80,12 @@ TASKS
     Write a script that encodes and decodes text using the rot13              encryption. Assume ASCII
 
 16. The eggs of the brood need to be and odd number.
-    Write eggs of the brood need to be an odd number.  
+    Write eggs of the brood need to be an odd number.
+
+17. I'm an instant star. Just add water and stir.
+    Write a shell script that adds the two numbers stored in the 
+    environment variables WATER and STIR and prints the result.
+
+    * WATER is in base water
+    * STIR is in base stir.
+    * The result should be in base bestchol  
